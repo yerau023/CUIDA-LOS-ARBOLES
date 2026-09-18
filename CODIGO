@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cuidemos los árboles</title>
+  <style>
+    body{
+      margin:0;
+      background:#f3f8f1;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      min-height:100vh;
+    }
+    img{
+      width:100%;
+      max-width:1000px;
+      height:auto;
+      display:block;
+    }
+  </style>
+</head>
+<body>
+  <img src="TU-IMAGEN.png" alt="Cuidemos los árboles">
+</body>
+</html>
